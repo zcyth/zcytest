@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "suiteName" verbose = "1">
+    <test name = "TestName">
+        <classes>
+             <class name="Usecase.Loginsucess"></class>
+             <class name="Usecase.Cresubject"></class>
+             <class name="Usecase.TaskScenario"></class>
+         </classes> -->
+      <!--  <packages>
+            <package name="Usecase"></package>
+        </packages> -->
+    </test>
+</suite>
