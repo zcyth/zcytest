@@ -84,7 +84,6 @@ public  class BasePage {
      */
     protected void click(String key) {
         if (key != null) {
-//            System.out.println(waitForElement(key).getText());
             waitForElement(key).click();
         } else {
             System.out.println(getBy(key) + "元素未找到");

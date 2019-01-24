@@ -4,7 +4,7 @@
         <classes>
              <class name="Usecase.Loginsucess"></class>
              <class name="Usecase.Cresubject"></class>
-             <class name="Usecase.TaskScenario"></class>
+         <!--    <class name="Usecase.TaskScenario"></class>-->
          </classes> -->
       <!--  <packages>
             <package name="Usecase"></package>

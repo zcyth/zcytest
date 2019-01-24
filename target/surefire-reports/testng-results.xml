@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SuiteName" duration-ms="8110" started-at="2019-01-24T07:47:39Z" finished-at="2019-01-24T07:47:47Z">
+    <groups>
+    </groups>
+    <test name="TestName" duration-ms="8110" started-at="2019-01-24T07:47:39Z" finished-at="2019-01-24T07:47:47Z">
+      <class name="Usecase.Cresubject">
+        <test-method status="PASS" signature="clickHomePage()[pri:0, instance:Usecase.Cresubject@3b81a1bc]" name="clickHomePage" duration-ms="871" started-at="2019-01-24T15:47:46Z" finished-at="2019-01-24T15:47:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHomePage -->
+      </class> <!-- Usecase.Cresubject -->
+      <class name="Usecase.Loginsucess">
+        <test-method status="PASS" signature="login()[pri:0, instance:Usecase.Loginsucess@42d3bd8b]" name="login" duration-ms="7213" started-at="2019-01-24T15:47:39Z" finished-at="2019-01-24T15:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Usecase.Loginsucess -->
+    </test> <!-- TestName -->
+  </suite> <!-- SuiteName -->
+</testng-results>

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SuiteName" verbose="1">
+    <test name="TestName">
+        <classes>
+            <class name="Usecase.Loginsucess"></class>
+            <class name="Usecase.Cresubject"></class>
+            <!--    <class name="Usecase.TaskScenario"></class>-->
+        </classes>
+    </test>
+</suite>

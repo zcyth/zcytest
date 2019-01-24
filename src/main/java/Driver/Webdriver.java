@@ -21,7 +21,7 @@ public class Webdriver {
         System.setProperty("webdriver.chrome.driver","/Users/zcy/chromedriver/chromedriver");
         WebDriver driver = new ChromeDriver();
 
-        driver.get("https://jiaoshi.qa-dev.xk12.cn");
+        driver.get("https://jiaoshi.qa-hotfix.xk12.cn");
         return driver;
     }
 
@@ -31,7 +31,7 @@ public class Webdriver {
      */
     public void switchChrome(WebDriver driver){
         JavascriptExecutor javascriptExecutor = (JavascriptExecutor) driver;
-        javascriptExecutor.executeScript("window.location.href = 'https://jiaoshi.qa-dev.xk12.cn' ");
+        javascriptExecutor.executeScript("window.location.href = 'https://jiaoshi.qa-hotfix.xk12.cn' ");
 
     }
     /**
